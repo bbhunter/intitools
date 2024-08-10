@@ -1,3 +1,6 @@
+## !! This repository is archived !!
+### !! Intigriti implemented a Recaptcha on login so the script is no longer able to log in automatically !!
+
 Small tool, written in Go, that constantly monitors Activity feed on https://app.intigriti.com Dashboard page and sends Slack/Discord notifications on new activities. 
 
 ### Discord notifications
